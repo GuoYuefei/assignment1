@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\Administrator\Desktop\CLion-2018.2.5\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = C:\Users\Administrator\Desktop\CLion-2018.2.5\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Administrator\Desktop\c cpp\assignment1"
+CMAKE_SOURCE_DIR = "C:\Users\Solomon Guo\Desktop\c\assignment1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Administrator\Desktop\c cpp\assignment1\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = "C:\Users\Administrator\Desktop\c cpp\assignment1\cmake-build
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	C:\Users\Administrator\Desktop\CLion-2018.2.5\bin\cmake\win\bin\cmake.exe -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -69,7 +69,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\Administrator\Desktop\CLion-2018.2.5\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -79,9 +79,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Administrator\Desktop\c cpp\assignment1\cmake-build-debug\CMakeFiles" "C:\Users\Administrator\Desktop\c cpp\assignment1\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" "C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Administrator\Desktop\c cpp\assignment1\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,32 +122,86 @@ jobs/fast:
 	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/build
 .PHONY : jobs/fast
 
-7-x/1-10.obj: 7-x/1-10.c.obj
+7-x/7-10.obj: 7-x/7-10.c.obj
 
-.PHONY : 7-x/1-10.obj
+.PHONY : 7-x/7-10.obj
 
 # target to build an object file
-7-x/1-10.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/1-10.c.obj
-.PHONY : 7-x/1-10.c.obj
+7-x/7-10.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.obj
+.PHONY : 7-x/7-10.c.obj
 
-7-x/1-10.i: 7-x/1-10.c.i
+7-x/7-10.i: 7-x/7-10.c.i
 
-.PHONY : 7-x/1-10.i
+.PHONY : 7-x/7-10.i
 
 # target to preprocess a source file
-7-x/1-10.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/1-10.c.i
-.PHONY : 7-x/1-10.c.i
+7-x/7-10.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.i
+.PHONY : 7-x/7-10.c.i
 
-7-x/1-10.s: 7-x/1-10.c.s
+7-x/7-10.s: 7-x/7-10.c.s
 
-.PHONY : 7-x/1-10.s
+.PHONY : 7-x/7-10.s
 
 # target to generate assembly for a file
-7-x/1-10.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/1-10.c.s
-.PHONY : 7-x/1-10.c.s
+7-x/7-10.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.s
+.PHONY : 7-x/7-10.c.s
+
+7-x/7-11.obj: 7-x/7-11.c.obj
+
+.PHONY : 7-x/7-11.obj
+
+# target to build an object file
+7-x/7-11.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.obj
+.PHONY : 7-x/7-11.c.obj
+
+7-x/7-11.i: 7-x/7-11.c.i
+
+.PHONY : 7-x/7-11.i
+
+# target to preprocess a source file
+7-x/7-11.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.i
+.PHONY : 7-x/7-11.c.i
+
+7-x/7-11.s: 7-x/7-11.c.s
+
+.PHONY : 7-x/7-11.s
+
+# target to generate assembly for a file
+7-x/7-11.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.s
+.PHONY : 7-x/7-11.c.s
+
+7-x/7-12.obj: 7-x/7-12.c.obj
+
+.PHONY : 7-x/7-12.obj
+
+# target to build an object file
+7-x/7-12.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.obj
+.PHONY : 7-x/7-12.c.obj
+
+7-x/7-12.i: 7-x/7-12.c.i
+
+.PHONY : 7-x/7-12.i
+
+# target to preprocess a source file
+7-x/7-12.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.i
+.PHONY : 7-x/7-12.c.i
+
+7-x/7-12.s: 7-x/7-12.c.s
+
+.PHONY : 7-x/7-12.s
+
+# target to generate assembly for a file
+7-x/7-12.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.s
+.PHONY : 7-x/7-12.c.s
 
 7-x/7-3.obj: 7-x/7-3.c.obj
 
@@ -347,9 +401,15 @@ help:
 	@echo ... rebuild_cache
 	@echo ... jobs
 	@echo ... edit_cache
-	@echo ... 7-x/1-10.obj
-	@echo ... 7-x/1-10.i
-	@echo ... 7-x/1-10.s
+	@echo ... 7-x/7-10.obj
+	@echo ... 7-x/7-10.i
+	@echo ... 7-x/7-10.s
+	@echo ... 7-x/7-11.obj
+	@echo ... 7-x/7-11.i
+	@echo ... 7-x/7-11.s
+	@echo ... 7-x/7-12.obj
+	@echo ... 7-x/7-12.i
+	@echo ... 7-x/7-12.s
 	@echo ... 7-x/7-3.obj
 	@echo ... 7-x/7-3.i
 	@echo ... 7-x/7-3.s
