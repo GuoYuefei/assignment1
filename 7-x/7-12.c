@@ -21,7 +21,7 @@
 int* scanfmyself(int n) ;
 
 int cmp(const void *a, const void *b) {
-    return *(int*)b - *(int*)a;
+    return *(int*)a - *(int*)b;
 }
 
 typedef unsigned int uint;
@@ -32,24 +32,29 @@ int main() {
     int *n = scanfmyself(1);
     int *p = scanfmyself(n[0]);
     int *tempp = (int*)malloc(n[0]*sizeof(int));
-    qsort(tempp, (uint)n[0], sizeof(int), cmp);
     for (int i = 0; i < n[0]; ++i) {
-        tempp[i] = p[0];            //在拷贝一份
+        tempp[i] = p[i];            //在拷贝一份
     }
+    qsort(tempp, (uint)n[0], sizeof(int), cmp);         //升序
     //要分析每个高校的
     for(int j = 0; j < n[0]; j++) {
         int space = n[0]; int s = 0;int hm = j+1;
         printf("#%d", j+1);
         for(int i = 0; i < p[j]*10; i++) {
-            if(!(i%10)) printf("\n");
-
+            if(!(i%10)) {
+                printf("\n");
+            } else {
+                printf(" ");
+            }
+            printf("%d", hm);
             //这儿加入分析代码
-
-
-
-
-
-            printf("%d ", hm);hm += space;
+            if(s < n[0] && i >= 10*(tempp[s]) && space >2) {
+                do {
+                    if(space > 2) space--;
+                    s++;
+                } while(s < n[0]&&tempp[s] == tempp[s-1]);
+            }
+            hm += space;
         }
         printf("\n");
     }
