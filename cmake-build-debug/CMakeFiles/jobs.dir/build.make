@@ -69,154 +69,229 @@ CMakeFiles/jobs.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/main.c.s"
 	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\main.c" -o CMakeFiles\jobs.dir\main.c.s
 
-CMakeFiles/jobs.dir/7-x/7-3.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-3.c.obj: ../7-x/7-3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/jobs.dir/7-x/7-3.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-3.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-3.c"
+CMakeFiles/jobs.dir/1/7-3.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-3.c.obj: ../1/7-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/jobs.dir/1/7-3.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-3.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-3.c"
 
-CMakeFiles/jobs.dir/7-x/7-3.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-3.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-3.c" > CMakeFiles\jobs.dir\7-x\7-3.c.i
+CMakeFiles/jobs.dir/1/7-3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-3.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-3.c" > CMakeFiles\jobs.dir\1\7-3.c.i
 
-CMakeFiles/jobs.dir/7-x/7-3.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-3.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-3.c" -o CMakeFiles\jobs.dir\7-x\7-3.c.s
+CMakeFiles/jobs.dir/1/7-3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-3.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-3.c" -o CMakeFiles\jobs.dir\1\7-3.c.s
 
-CMakeFiles/jobs.dir/7-x/7-5.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-5.c.obj: ../7-x/7-5.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/jobs.dir/7-x/7-5.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-5.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-5.c"
+CMakeFiles/jobs.dir/1/7-5.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-5.c.obj: ../1/7-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/jobs.dir/1/7-5.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-5.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-5.c"
 
-CMakeFiles/jobs.dir/7-x/7-5.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-5.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-5.c" > CMakeFiles\jobs.dir\7-x\7-5.c.i
+CMakeFiles/jobs.dir/1/7-5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-5.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-5.c" > CMakeFiles\jobs.dir\1\7-5.c.i
 
-CMakeFiles/jobs.dir/7-x/7-5.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-5.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-5.c" -o CMakeFiles\jobs.dir\7-x\7-5.c.s
+CMakeFiles/jobs.dir/1/7-5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-5.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-5.c" -o CMakeFiles\jobs.dir\1\7-5.c.s
 
-CMakeFiles/jobs.dir/7-x/7-6.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-6.c.obj: ../7-x/7-6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/jobs.dir/7-x/7-6.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-6.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-6.c"
+CMakeFiles/jobs.dir/1/7-6.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-6.c.obj: ../1/7-6.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/jobs.dir/1/7-6.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-6.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-6.c"
 
-CMakeFiles/jobs.dir/7-x/7-6.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-6.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-6.c" > CMakeFiles\jobs.dir\7-x\7-6.c.i
+CMakeFiles/jobs.dir/1/7-6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-6.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-6.c" > CMakeFiles\jobs.dir\1\7-6.c.i
 
-CMakeFiles/jobs.dir/7-x/7-6.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-6.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-6.c" -o CMakeFiles\jobs.dir\7-x\7-6.c.s
+CMakeFiles/jobs.dir/1/7-6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-6.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-6.c" -o CMakeFiles\jobs.dir\1\7-6.c.s
 
-CMakeFiles/jobs.dir/7-x/7-7.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-7.c.obj: ../7-x/7-7.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/jobs.dir/7-x/7-7.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-7.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-7.c"
+CMakeFiles/jobs.dir/1/7-7.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-7.c.obj: ../1/7-7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/jobs.dir/1/7-7.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-7.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-7.c"
 
-CMakeFiles/jobs.dir/7-x/7-7.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-7.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-7.c" > CMakeFiles\jobs.dir\7-x\7-7.c.i
+CMakeFiles/jobs.dir/1/7-7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-7.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-7.c" > CMakeFiles\jobs.dir\1\7-7.c.i
 
-CMakeFiles/jobs.dir/7-x/7-7.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-7.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-7.c" -o CMakeFiles\jobs.dir\7-x\7-7.c.s
+CMakeFiles/jobs.dir/1/7-7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-7.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-7.c" -o CMakeFiles\jobs.dir\1\7-7.c.s
 
-CMakeFiles/jobs.dir/7-x/7-8.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-8.c.obj: ../7-x/7-8.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/jobs.dir/7-x/7-8.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-8.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-8.c"
+CMakeFiles/jobs.dir/1/7-8.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-8.c.obj: ../1/7-8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/jobs.dir/1/7-8.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-8.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-8.c"
 
-CMakeFiles/jobs.dir/7-x/7-8.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-8.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-8.c" > CMakeFiles\jobs.dir\7-x\7-8.c.i
+CMakeFiles/jobs.dir/1/7-8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-8.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-8.c" > CMakeFiles\jobs.dir\1\7-8.c.i
 
-CMakeFiles/jobs.dir/7-x/7-8.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-8.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-8.c" -o CMakeFiles\jobs.dir\7-x\7-8.c.s
+CMakeFiles/jobs.dir/1/7-8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-8.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-8.c" -o CMakeFiles\jobs.dir\1\7-8.c.s
 
-CMakeFiles/jobs.dir/7-x/7-9.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-9.c.obj: ../7-x/7-9.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/jobs.dir/7-x/7-9.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-9.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-9.c"
+CMakeFiles/jobs.dir/1/7-9.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-9.c.obj: ../1/7-9.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/jobs.dir/1/7-9.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-9.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-9.c"
 
-CMakeFiles/jobs.dir/7-x/7-9.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-9.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-9.c" > CMakeFiles\jobs.dir\7-x\7-9.c.i
+CMakeFiles/jobs.dir/1/7-9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-9.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-9.c" > CMakeFiles\jobs.dir\1\7-9.c.i
 
-CMakeFiles/jobs.dir/7-x/7-9.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-9.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-9.c" -o CMakeFiles\jobs.dir\7-x\7-9.c.s
+CMakeFiles/jobs.dir/1/7-9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-9.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-9.c" -o CMakeFiles\jobs.dir\1\7-9.c.s
 
-CMakeFiles/jobs.dir/7-x/7-10.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-10.c.obj: ../7-x/7-10.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/jobs.dir/7-x/7-10.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-10.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-10.c"
+CMakeFiles/jobs.dir/1/7-10.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-10.c.obj: ../1/7-10.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/jobs.dir/1/7-10.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-10.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-10.c"
 
-CMakeFiles/jobs.dir/7-x/7-10.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-10.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-10.c" > CMakeFiles\jobs.dir\7-x\7-10.c.i
+CMakeFiles/jobs.dir/1/7-10.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-10.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-10.c" > CMakeFiles\jobs.dir\1\7-10.c.i
 
-CMakeFiles/jobs.dir/7-x/7-10.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-10.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-10.c" -o CMakeFiles\jobs.dir\7-x\7-10.c.s
+CMakeFiles/jobs.dir/1/7-10.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-10.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-10.c" -o CMakeFiles\jobs.dir\1\7-10.c.s
 
-CMakeFiles/jobs.dir/7-x/7-11.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-11.c.obj: ../7-x/7-11.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/jobs.dir/7-x/7-11.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-11.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-11.c"
+CMakeFiles/jobs.dir/1/7-11.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-11.c.obj: ../1/7-11.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/jobs.dir/1/7-11.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-11.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-11.c"
 
-CMakeFiles/jobs.dir/7-x/7-11.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-11.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-11.c" > CMakeFiles\jobs.dir\7-x\7-11.c.i
+CMakeFiles/jobs.dir/1/7-11.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-11.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-11.c" > CMakeFiles\jobs.dir\1\7-11.c.i
 
-CMakeFiles/jobs.dir/7-x/7-11.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-11.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-11.c" -o CMakeFiles\jobs.dir\7-x\7-11.c.s
+CMakeFiles/jobs.dir/1/7-11.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-11.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-11.c" -o CMakeFiles\jobs.dir\1\7-11.c.s
 
-CMakeFiles/jobs.dir/7-x/7-12.c.obj: CMakeFiles/jobs.dir/flags.make
-CMakeFiles/jobs.dir/7-x/7-12.c.obj: ../7-x/7-12.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/jobs.dir/7-x/7-12.c.obj"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\7-x\7-12.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-12.c"
+CMakeFiles/jobs.dir/1/7-12.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/7-12.c.obj: ../1/7-12.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/jobs.dir/1/7-12.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\7-12.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-12.c"
 
-CMakeFiles/jobs.dir/7-x/7-12.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/7-x/7-12.c.i"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-12.c" > CMakeFiles\jobs.dir\7-x\7-12.c.i
+CMakeFiles/jobs.dir/1/7-12.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/7-12.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-12.c" > CMakeFiles\jobs.dir\1\7-12.c.i
 
-CMakeFiles/jobs.dir/7-x/7-12.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/7-x/7-12.c.s"
-	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\7-x\7-12.c" -o CMakeFiles\jobs.dir\7-x\7-12.c.s
+CMakeFiles/jobs.dir/1/7-12.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/7-12.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\7-12.c" -o CMakeFiles\jobs.dir\1\7-12.c.s
+
+CMakeFiles/jobs.dir/1/6-3.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/1/6-3.c.obj: ../1/6-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/jobs.dir/1/6-3.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\1\6-3.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\1\6-3.c"
+
+CMakeFiles/jobs.dir/1/6-3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/1/6-3.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\1\6-3.c" > CMakeFiles\jobs.dir\1\6-3.c.i
+
+CMakeFiles/jobs.dir/1/6-3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/1/6-3.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\1\6-3.c" -o CMakeFiles\jobs.dir\1\6-3.c.s
+
+CMakeFiles/jobs.dir/2/7-3.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/2/7-3.c.obj: ../2/7-3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/jobs.dir/2/7-3.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\2\7-3.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3.c"
+
+CMakeFiles/jobs.dir/2/7-3.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/2/7-3.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3.c" > CMakeFiles\jobs.dir\2\7-3.c.i
+
+CMakeFiles/jobs.dir/2/7-3.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/2/7-3.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3.c" -o CMakeFiles\jobs.dir\2\7-3.c.s
+
+CMakeFiles/jobs.dir/2/7-3-err-object.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/2/7-3-err-object.c.obj: ../2/7-3-err-object.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/jobs.dir/2/7-3-err-object.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\2\7-3-err-object.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3-err-object.c"
+
+CMakeFiles/jobs.dir/2/7-3-err-object.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/2/7-3-err-object.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3-err-object.c" > CMakeFiles\jobs.dir\2\7-3-err-object.c.i
+
+CMakeFiles/jobs.dir/2/7-3-err-object.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/2/7-3-err-object.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-3-err-object.c" -o CMakeFiles\jobs.dir\2\7-3-err-object.c.s
+
+CMakeFiles/jobs.dir/2/7-5.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/2/7-5.c.obj: ../2/7-5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/jobs.dir/2/7-5.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\2\7-5.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-5.c"
+
+CMakeFiles/jobs.dir/2/7-5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/2/7-5.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-5.c" > CMakeFiles\jobs.dir\2\7-5.c.i
+
+CMakeFiles/jobs.dir/2/7-5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/2/7-5.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\2\7-5.c" -o CMakeFiles\jobs.dir\2\7-5.c.s
+
+CMakeFiles/jobs.dir/lalal.c.obj: CMakeFiles/jobs.dir/flags.make
+CMakeFiles/jobs.dir/lalal.c.obj: ../lalal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/jobs.dir/lalal.c.obj"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\jobs.dir\lalal.c.obj   -c "C:\Users\Solomon Guo\Desktop\c\assignment1\lalal.c"
+
+CMakeFiles/jobs.dir/lalal.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/jobs.dir/lalal.c.i"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "C:\Users\Solomon Guo\Desktop\c\assignment1\lalal.c" > CMakeFiles\jobs.dir\lalal.c.i
+
+CMakeFiles/jobs.dir/lalal.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/jobs.dir/lalal.c.s"
+	C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "C:\Users\Solomon Guo\Desktop\c\assignment1\lalal.c" -o CMakeFiles\jobs.dir\lalal.c.s
 
 # Object files for target jobs
 jobs_OBJECTS = \
 "CMakeFiles/jobs.dir/main.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-3.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-5.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-6.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-7.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-8.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-9.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-10.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-11.c.obj" \
-"CMakeFiles/jobs.dir/7-x/7-12.c.obj"
+"CMakeFiles/jobs.dir/1/7-3.c.obj" \
+"CMakeFiles/jobs.dir/1/7-5.c.obj" \
+"CMakeFiles/jobs.dir/1/7-6.c.obj" \
+"CMakeFiles/jobs.dir/1/7-7.c.obj" \
+"CMakeFiles/jobs.dir/1/7-8.c.obj" \
+"CMakeFiles/jobs.dir/1/7-9.c.obj" \
+"CMakeFiles/jobs.dir/1/7-10.c.obj" \
+"CMakeFiles/jobs.dir/1/7-11.c.obj" \
+"CMakeFiles/jobs.dir/1/7-12.c.obj" \
+"CMakeFiles/jobs.dir/1/6-3.c.obj" \
+"CMakeFiles/jobs.dir/2/7-3.c.obj" \
+"CMakeFiles/jobs.dir/2/7-3-err-object.c.obj" \
+"CMakeFiles/jobs.dir/2/7-5.c.obj" \
+"CMakeFiles/jobs.dir/lalal.c.obj"
 
 # External object files for target jobs
 jobs_EXTERNAL_OBJECTS =
 
 jobs.exe: CMakeFiles/jobs.dir/main.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-3.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-5.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-6.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-7.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-8.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-9.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-10.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-11.c.obj
-jobs.exe: CMakeFiles/jobs.dir/7-x/7-12.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-3.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-5.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-6.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-7.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-8.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-9.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-10.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-11.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/7-12.c.obj
+jobs.exe: CMakeFiles/jobs.dir/1/6-3.c.obj
+jobs.exe: CMakeFiles/jobs.dir/2/7-3.c.obj
+jobs.exe: CMakeFiles/jobs.dir/2/7-3-err-object.c.obj
+jobs.exe: CMakeFiles/jobs.dir/2/7-5.c.obj
+jobs.exe: CMakeFiles/jobs.dir/lalal.c.obj
 jobs.exe: CMakeFiles/jobs.dir/build.make
 jobs.exe: CMakeFiles/jobs.dir/linklibs.rsp
 jobs.exe: CMakeFiles/jobs.dir/objects1.rsp
 jobs.exe: CMakeFiles/jobs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Linking C executable jobs.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Solomon Guo\Desktop\c\assignment1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Linking C executable jobs.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\jobs.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

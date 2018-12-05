@@ -122,248 +122,383 @@ jobs/fast:
 	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/build
 .PHONY : jobs/fast
 
-7-x/7-10.obj: 7-x/7-10.c.obj
+1/6-3.obj: 1/6-3.c.obj
 
-.PHONY : 7-x/7-10.obj
-
-# target to build an object file
-7-x/7-10.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.obj
-.PHONY : 7-x/7-10.c.obj
-
-7-x/7-10.i: 7-x/7-10.c.i
-
-.PHONY : 7-x/7-10.i
-
-# target to preprocess a source file
-7-x/7-10.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.i
-.PHONY : 7-x/7-10.c.i
-
-7-x/7-10.s: 7-x/7-10.c.s
-
-.PHONY : 7-x/7-10.s
-
-# target to generate assembly for a file
-7-x/7-10.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-10.c.s
-.PHONY : 7-x/7-10.c.s
-
-7-x/7-11.obj: 7-x/7-11.c.obj
-
-.PHONY : 7-x/7-11.obj
+.PHONY : 1/6-3.obj
 
 # target to build an object file
-7-x/7-11.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.obj
-.PHONY : 7-x/7-11.c.obj
+1/6-3.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/6-3.c.obj
+.PHONY : 1/6-3.c.obj
 
-7-x/7-11.i: 7-x/7-11.c.i
+1/6-3.i: 1/6-3.c.i
 
-.PHONY : 7-x/7-11.i
+.PHONY : 1/6-3.i
 
 # target to preprocess a source file
-7-x/7-11.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.i
-.PHONY : 7-x/7-11.c.i
+1/6-3.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/6-3.c.i
+.PHONY : 1/6-3.c.i
 
-7-x/7-11.s: 7-x/7-11.c.s
+1/6-3.s: 1/6-3.c.s
 
-.PHONY : 7-x/7-11.s
+.PHONY : 1/6-3.s
 
 # target to generate assembly for a file
-7-x/7-11.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-11.c.s
-.PHONY : 7-x/7-11.c.s
+1/6-3.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/6-3.c.s
+.PHONY : 1/6-3.c.s
 
-7-x/7-12.obj: 7-x/7-12.c.obj
+1/7-10.obj: 1/7-10.c.obj
 
-.PHONY : 7-x/7-12.obj
+.PHONY : 1/7-10.obj
 
 # target to build an object file
-7-x/7-12.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.obj
-.PHONY : 7-x/7-12.c.obj
+1/7-10.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-10.c.obj
+.PHONY : 1/7-10.c.obj
 
-7-x/7-12.i: 7-x/7-12.c.i
+1/7-10.i: 1/7-10.c.i
 
-.PHONY : 7-x/7-12.i
+.PHONY : 1/7-10.i
 
 # target to preprocess a source file
-7-x/7-12.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.i
-.PHONY : 7-x/7-12.c.i
+1/7-10.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-10.c.i
+.PHONY : 1/7-10.c.i
 
-7-x/7-12.s: 7-x/7-12.c.s
+1/7-10.s: 1/7-10.c.s
 
-.PHONY : 7-x/7-12.s
+.PHONY : 1/7-10.s
 
 # target to generate assembly for a file
-7-x/7-12.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-12.c.s
-.PHONY : 7-x/7-12.c.s
+1/7-10.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-10.c.s
+.PHONY : 1/7-10.c.s
 
-7-x/7-3.obj: 7-x/7-3.c.obj
+1/7-11.obj: 1/7-11.c.obj
 
-.PHONY : 7-x/7-3.obj
+.PHONY : 1/7-11.obj
 
 # target to build an object file
-7-x/7-3.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-3.c.obj
-.PHONY : 7-x/7-3.c.obj
+1/7-11.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-11.c.obj
+.PHONY : 1/7-11.c.obj
 
-7-x/7-3.i: 7-x/7-3.c.i
+1/7-11.i: 1/7-11.c.i
 
-.PHONY : 7-x/7-3.i
+.PHONY : 1/7-11.i
 
 # target to preprocess a source file
-7-x/7-3.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-3.c.i
-.PHONY : 7-x/7-3.c.i
+1/7-11.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-11.c.i
+.PHONY : 1/7-11.c.i
 
-7-x/7-3.s: 7-x/7-3.c.s
+1/7-11.s: 1/7-11.c.s
 
-.PHONY : 7-x/7-3.s
+.PHONY : 1/7-11.s
 
 # target to generate assembly for a file
-7-x/7-3.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-3.c.s
-.PHONY : 7-x/7-3.c.s
+1/7-11.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-11.c.s
+.PHONY : 1/7-11.c.s
 
-7-x/7-5.obj: 7-x/7-5.c.obj
+1/7-12.obj: 1/7-12.c.obj
 
-.PHONY : 7-x/7-5.obj
+.PHONY : 1/7-12.obj
 
 # target to build an object file
-7-x/7-5.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-5.c.obj
-.PHONY : 7-x/7-5.c.obj
+1/7-12.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-12.c.obj
+.PHONY : 1/7-12.c.obj
 
-7-x/7-5.i: 7-x/7-5.c.i
+1/7-12.i: 1/7-12.c.i
 
-.PHONY : 7-x/7-5.i
+.PHONY : 1/7-12.i
 
 # target to preprocess a source file
-7-x/7-5.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-5.c.i
-.PHONY : 7-x/7-5.c.i
+1/7-12.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-12.c.i
+.PHONY : 1/7-12.c.i
 
-7-x/7-5.s: 7-x/7-5.c.s
+1/7-12.s: 1/7-12.c.s
 
-.PHONY : 7-x/7-5.s
+.PHONY : 1/7-12.s
 
 # target to generate assembly for a file
-7-x/7-5.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-5.c.s
-.PHONY : 7-x/7-5.c.s
+1/7-12.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-12.c.s
+.PHONY : 1/7-12.c.s
 
-7-x/7-6.obj: 7-x/7-6.c.obj
+1/7-3.obj: 1/7-3.c.obj
 
-.PHONY : 7-x/7-6.obj
+.PHONY : 1/7-3.obj
 
 # target to build an object file
-7-x/7-6.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-6.c.obj
-.PHONY : 7-x/7-6.c.obj
+1/7-3.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-3.c.obj
+.PHONY : 1/7-3.c.obj
 
-7-x/7-6.i: 7-x/7-6.c.i
+1/7-3.i: 1/7-3.c.i
 
-.PHONY : 7-x/7-6.i
+.PHONY : 1/7-3.i
 
 # target to preprocess a source file
-7-x/7-6.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-6.c.i
-.PHONY : 7-x/7-6.c.i
+1/7-3.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-3.c.i
+.PHONY : 1/7-3.c.i
 
-7-x/7-6.s: 7-x/7-6.c.s
+1/7-3.s: 1/7-3.c.s
 
-.PHONY : 7-x/7-6.s
+.PHONY : 1/7-3.s
 
 # target to generate assembly for a file
-7-x/7-6.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-6.c.s
-.PHONY : 7-x/7-6.c.s
+1/7-3.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-3.c.s
+.PHONY : 1/7-3.c.s
 
-7-x/7-7.obj: 7-x/7-7.c.obj
+1/7-5.obj: 1/7-5.c.obj
 
-.PHONY : 7-x/7-7.obj
+.PHONY : 1/7-5.obj
 
 # target to build an object file
-7-x/7-7.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-7.c.obj
-.PHONY : 7-x/7-7.c.obj
+1/7-5.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-5.c.obj
+.PHONY : 1/7-5.c.obj
 
-7-x/7-7.i: 7-x/7-7.c.i
+1/7-5.i: 1/7-5.c.i
 
-.PHONY : 7-x/7-7.i
+.PHONY : 1/7-5.i
 
 # target to preprocess a source file
-7-x/7-7.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-7.c.i
-.PHONY : 7-x/7-7.c.i
+1/7-5.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-5.c.i
+.PHONY : 1/7-5.c.i
 
-7-x/7-7.s: 7-x/7-7.c.s
+1/7-5.s: 1/7-5.c.s
 
-.PHONY : 7-x/7-7.s
+.PHONY : 1/7-5.s
 
 # target to generate assembly for a file
-7-x/7-7.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-7.c.s
-.PHONY : 7-x/7-7.c.s
+1/7-5.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-5.c.s
+.PHONY : 1/7-5.c.s
 
-7-x/7-8.obj: 7-x/7-8.c.obj
+1/7-6.obj: 1/7-6.c.obj
 
-.PHONY : 7-x/7-8.obj
+.PHONY : 1/7-6.obj
 
 # target to build an object file
-7-x/7-8.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-8.c.obj
-.PHONY : 7-x/7-8.c.obj
+1/7-6.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-6.c.obj
+.PHONY : 1/7-6.c.obj
 
-7-x/7-8.i: 7-x/7-8.c.i
+1/7-6.i: 1/7-6.c.i
 
-.PHONY : 7-x/7-8.i
+.PHONY : 1/7-6.i
 
 # target to preprocess a source file
-7-x/7-8.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-8.c.i
-.PHONY : 7-x/7-8.c.i
+1/7-6.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-6.c.i
+.PHONY : 1/7-6.c.i
 
-7-x/7-8.s: 7-x/7-8.c.s
+1/7-6.s: 1/7-6.c.s
 
-.PHONY : 7-x/7-8.s
+.PHONY : 1/7-6.s
 
 # target to generate assembly for a file
-7-x/7-8.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-8.c.s
-.PHONY : 7-x/7-8.c.s
+1/7-6.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-6.c.s
+.PHONY : 1/7-6.c.s
 
-7-x/7-9.obj: 7-x/7-9.c.obj
+1/7-7.obj: 1/7-7.c.obj
 
-.PHONY : 7-x/7-9.obj
+.PHONY : 1/7-7.obj
 
 # target to build an object file
-7-x/7-9.c.obj:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-9.c.obj
-.PHONY : 7-x/7-9.c.obj
+1/7-7.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-7.c.obj
+.PHONY : 1/7-7.c.obj
 
-7-x/7-9.i: 7-x/7-9.c.i
+1/7-7.i: 1/7-7.c.i
 
-.PHONY : 7-x/7-9.i
+.PHONY : 1/7-7.i
 
 # target to preprocess a source file
-7-x/7-9.c.i:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-9.c.i
-.PHONY : 7-x/7-9.c.i
+1/7-7.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-7.c.i
+.PHONY : 1/7-7.c.i
 
-7-x/7-9.s: 7-x/7-9.c.s
+1/7-7.s: 1/7-7.c.s
 
-.PHONY : 7-x/7-9.s
+.PHONY : 1/7-7.s
 
 # target to generate assembly for a file
-7-x/7-9.c.s:
-	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/7-x/7-9.c.s
-.PHONY : 7-x/7-9.c.s
+1/7-7.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-7.c.s
+.PHONY : 1/7-7.c.s
+
+1/7-8.obj: 1/7-8.c.obj
+
+.PHONY : 1/7-8.obj
+
+# target to build an object file
+1/7-8.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-8.c.obj
+.PHONY : 1/7-8.c.obj
+
+1/7-8.i: 1/7-8.c.i
+
+.PHONY : 1/7-8.i
+
+# target to preprocess a source file
+1/7-8.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-8.c.i
+.PHONY : 1/7-8.c.i
+
+1/7-8.s: 1/7-8.c.s
+
+.PHONY : 1/7-8.s
+
+# target to generate assembly for a file
+1/7-8.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-8.c.s
+.PHONY : 1/7-8.c.s
+
+1/7-9.obj: 1/7-9.c.obj
+
+.PHONY : 1/7-9.obj
+
+# target to build an object file
+1/7-9.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-9.c.obj
+.PHONY : 1/7-9.c.obj
+
+1/7-9.i: 1/7-9.c.i
+
+.PHONY : 1/7-9.i
+
+# target to preprocess a source file
+1/7-9.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-9.c.i
+.PHONY : 1/7-9.c.i
+
+1/7-9.s: 1/7-9.c.s
+
+.PHONY : 1/7-9.s
+
+# target to generate assembly for a file
+1/7-9.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/1/7-9.c.s
+.PHONY : 1/7-9.c.s
+
+2/7-3-err-object.obj: 2/7-3-err-object.c.obj
+
+.PHONY : 2/7-3-err-object.obj
+
+# target to build an object file
+2/7-3-err-object.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3-err-object.c.obj
+.PHONY : 2/7-3-err-object.c.obj
+
+2/7-3-err-object.i: 2/7-3-err-object.c.i
+
+.PHONY : 2/7-3-err-object.i
+
+# target to preprocess a source file
+2/7-3-err-object.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3-err-object.c.i
+.PHONY : 2/7-3-err-object.c.i
+
+2/7-3-err-object.s: 2/7-3-err-object.c.s
+
+.PHONY : 2/7-3-err-object.s
+
+# target to generate assembly for a file
+2/7-3-err-object.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3-err-object.c.s
+.PHONY : 2/7-3-err-object.c.s
+
+2/7-3.obj: 2/7-3.c.obj
+
+.PHONY : 2/7-3.obj
+
+# target to build an object file
+2/7-3.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3.c.obj
+.PHONY : 2/7-3.c.obj
+
+2/7-3.i: 2/7-3.c.i
+
+.PHONY : 2/7-3.i
+
+# target to preprocess a source file
+2/7-3.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3.c.i
+.PHONY : 2/7-3.c.i
+
+2/7-3.s: 2/7-3.c.s
+
+.PHONY : 2/7-3.s
+
+# target to generate assembly for a file
+2/7-3.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-3.c.s
+.PHONY : 2/7-3.c.s
+
+2/7-5.obj: 2/7-5.c.obj
+
+.PHONY : 2/7-5.obj
+
+# target to build an object file
+2/7-5.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-5.c.obj
+.PHONY : 2/7-5.c.obj
+
+2/7-5.i: 2/7-5.c.i
+
+.PHONY : 2/7-5.i
+
+# target to preprocess a source file
+2/7-5.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-5.c.i
+.PHONY : 2/7-5.c.i
+
+2/7-5.s: 2/7-5.c.s
+
+.PHONY : 2/7-5.s
+
+# target to generate assembly for a file
+2/7-5.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/2/7-5.c.s
+.PHONY : 2/7-5.c.s
+
+lalal.obj: lalal.c.obj
+
+.PHONY : lalal.obj
+
+# target to build an object file
+lalal.c.obj:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/lalal.c.obj
+.PHONY : lalal.c.obj
+
+lalal.i: lalal.c.i
+
+.PHONY : lalal.i
+
+# target to preprocess a source file
+lalal.c.i:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/lalal.c.i
+.PHONY : lalal.c.i
+
+lalal.s: lalal.c.s
+
+.PHONY : lalal.s
+
+# target to generate assembly for a file
+lalal.c.s:
+	$(MAKE) -f CMakeFiles\jobs.dir\build.make CMakeFiles/jobs.dir/lalal.c.s
+.PHONY : lalal.c.s
 
 main.obj: main.c.obj
 
@@ -401,33 +536,48 @@ help:
 	@echo ... rebuild_cache
 	@echo ... jobs
 	@echo ... edit_cache
-	@echo ... 7-x/7-10.obj
-	@echo ... 7-x/7-10.i
-	@echo ... 7-x/7-10.s
-	@echo ... 7-x/7-11.obj
-	@echo ... 7-x/7-11.i
-	@echo ... 7-x/7-11.s
-	@echo ... 7-x/7-12.obj
-	@echo ... 7-x/7-12.i
-	@echo ... 7-x/7-12.s
-	@echo ... 7-x/7-3.obj
-	@echo ... 7-x/7-3.i
-	@echo ... 7-x/7-3.s
-	@echo ... 7-x/7-5.obj
-	@echo ... 7-x/7-5.i
-	@echo ... 7-x/7-5.s
-	@echo ... 7-x/7-6.obj
-	@echo ... 7-x/7-6.i
-	@echo ... 7-x/7-6.s
-	@echo ... 7-x/7-7.obj
-	@echo ... 7-x/7-7.i
-	@echo ... 7-x/7-7.s
-	@echo ... 7-x/7-8.obj
-	@echo ... 7-x/7-8.i
-	@echo ... 7-x/7-8.s
-	@echo ... 7-x/7-9.obj
-	@echo ... 7-x/7-9.i
-	@echo ... 7-x/7-9.s
+	@echo ... 1/6-3.obj
+	@echo ... 1/6-3.i
+	@echo ... 1/6-3.s
+	@echo ... 1/7-10.obj
+	@echo ... 1/7-10.i
+	@echo ... 1/7-10.s
+	@echo ... 1/7-11.obj
+	@echo ... 1/7-11.i
+	@echo ... 1/7-11.s
+	@echo ... 1/7-12.obj
+	@echo ... 1/7-12.i
+	@echo ... 1/7-12.s
+	@echo ... 1/7-3.obj
+	@echo ... 1/7-3.i
+	@echo ... 1/7-3.s
+	@echo ... 1/7-5.obj
+	@echo ... 1/7-5.i
+	@echo ... 1/7-5.s
+	@echo ... 1/7-6.obj
+	@echo ... 1/7-6.i
+	@echo ... 1/7-6.s
+	@echo ... 1/7-7.obj
+	@echo ... 1/7-7.i
+	@echo ... 1/7-7.s
+	@echo ... 1/7-8.obj
+	@echo ... 1/7-8.i
+	@echo ... 1/7-8.s
+	@echo ... 1/7-9.obj
+	@echo ... 1/7-9.i
+	@echo ... 1/7-9.s
+	@echo ... 2/7-3-err-object.obj
+	@echo ... 2/7-3-err-object.i
+	@echo ... 2/7-3-err-object.s
+	@echo ... 2/7-3.obj
+	@echo ... 2/7-3.i
+	@echo ... 2/7-3.s
+	@echo ... 2/7-5.obj
+	@echo ... 2/7-5.i
+	@echo ... 2/7-5.s
+	@echo ... lalal.obj
+	@echo ... lalal.i
+	@echo ... lalal.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

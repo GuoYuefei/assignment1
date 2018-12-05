@@ -1,4 +1,9 @@
 "C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Solomon Guo\Desktop\c\assignment1"
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Solomon Guo/Desktop/c/assignment1/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "2/7-5.c" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Solomon Guo/Desktop/c/assignment1/cmake-build-debug/CMakeFiles/CMakeOutput.log".

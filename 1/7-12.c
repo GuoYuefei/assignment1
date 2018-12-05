@@ -38,7 +38,8 @@ int main() {
     qsort(tempp, (uint)n[0], sizeof(int), cmp);         //升序
     //要分析每个高校的
     for(int j = 0; j < n[0]; j++) {
-        int space = n[0]; int s = 0;int hm = j+1;
+        int space = n[0]>2?n[0]:2;
+        int s = 0;int hm = j+1-space;
         printf("#%d", j+1);
         for(int i = 0; i < p[j]*10; i++) {
             if(!(i%10)) {
@@ -46,7 +47,6 @@ int main() {
             } else {
                 printf(" ");
             }
-            printf("%d", hm);
             //这儿加入分析代码
             if(s < n[0] && i >= 10*(tempp[s]) && space >2) {
                 do {
@@ -55,7 +55,9 @@ int main() {
                 } while(s < n[0]&&tempp[s] == tempp[s-1]);
             }
             hm += space;
+            printf("%d", hm);
         }
+        if(j == n[0]-1) break;
         printf("\n");
     }
 

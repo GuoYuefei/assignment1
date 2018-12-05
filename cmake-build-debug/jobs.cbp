@@ -74,31 +74,46 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-10.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/6-3.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-11.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-10.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-12.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-11.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-3.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-12.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-5.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-3.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-6.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-5.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-7.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-6.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-8.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-7.c">
 			<Option target="jobs"/>
 		</Unit>
-		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/7-x/7-9.c">
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-8.c">
+			<Option target="jobs"/>
+		</Unit>
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/1/7-9.c">
+			<Option target="jobs"/>
+		</Unit>
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/2/7-3-err-object.c">
+			<Option target="jobs"/>
+		</Unit>
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/2/7-3.c">
+			<Option target="jobs"/>
+		</Unit>
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/2/7-5.c">
+			<Option target="jobs"/>
+		</Unit>
+		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/lalal.c">
 			<Option target="jobs"/>
 		</Unit>
 		<Unit filename="C:/Users/Solomon Guo/Desktop/c/assignment1/main.c">
