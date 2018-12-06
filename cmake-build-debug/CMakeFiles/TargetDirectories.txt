@@ -1,3 +1,0 @@
-C:/Users/Solomon Guo/Desktop/c/assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Solomon Guo/Desktop/c/assignment1/cmake-build-debug/CMakeFiles/jobs.dir
-C:/Users/Solomon Guo/Desktop/c/assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
